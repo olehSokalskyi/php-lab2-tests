@@ -1,0 +1,34 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm
+.idea
+/*.iml
+
+# PHPUnit
+/phpunit.xml
+/phpunit.xml.dist
+
+# Logs
+*.log
+
+# Cache
+/cache/
+/tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# Build directories
+/build/
+/dist/
+
+# Ant
+/build.xml
